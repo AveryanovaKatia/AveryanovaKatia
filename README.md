@@ -1,4 +1,15 @@
-## Hi there 👋
+## Привет)))
+
+Меня зовут Аверьянова Катя, я не так давно встала на путь Java-разработчика, но уже кое-что умею. 
+
+Здесь мои первые проекты — это REST-сервисы, созданные с помощью Spring Boot или Spring Framework.
+
+# Projects
+- ### [Java-filmorate](https://github.com/AveryanovaKatia/java-filmorate)  | Java + Spring Boot + SQL
+- ### [Java-shareit](https://github.com/AveryanovaKatia/java-shareit)  | Java + Spring FrameWork + Hibernate + Docker + MicroServices + Postgresql
+- ### [java explore with me](https://github.com/AveryanovaKatia/java-explore-with-me-plus_final)  | Java + Spring FrameWork + Hibernate + Docker + MicroServices + Postgresql
+
+<br>
 
 ## Language and Technology
 <div> 
