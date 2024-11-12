@@ -1,4 +1,6 @@
-##  (=♡ ᆺ ♡=)
+##  <div align="center">
+    <img src="https://media.giphy.com/media/iDbDicWr95THaVsuIF/giphy.gif" width="150px"/>
+</div>
 
 Меня зовут Аверьянова Катя, я не так давно встала на путь Java-разработчика, но уже кое-что умею. 
 Стремлюсь писать чистый код, компактный и понятный.
