@@ -7,7 +7,7 @@
 # Projects
 - ### [Java-filmorate](https://github.com/AveryanovaKatia/java-filmorate)  | Java + Spring Boot + SQL
 - ### [Java-shareit](https://github.com/AveryanovaKatia/java-shareit)  | Java + Spring FrameWork + Hibernate + Docker + MicroServices + Postgresql
-- ### [java explore with me](https://github.com/AveryanovaKatia/java-explore-with-me-plus_final)  | Java + Spring FrameWork + Hibernate + Docker + MicroServices + Postgresql
+- ### [Java-explore-with-me](https://github.com/AveryanovaKatia/java-explore-with-me)  | Java + Spring FrameWork + Hibernate + Docker + MicroServices + Postgresql
 
 <br>
 
