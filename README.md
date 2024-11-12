@@ -19,7 +19,7 @@
 ## Language and Technology
 <div> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="75"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellijI/intellijI-original-wordmark.svg" width="75"/>
+   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" title="intellij" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="75"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="75"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="75"/>
