@@ -7,7 +7,7 @@
 Меня зовут Аверьянова Катя, я не так давно встала на путь Java-разработчика, но уже кое-что умею. 
 Стремлюсь писать чистый код, компактный и понятный.
 
-Здесь мои первые проекты — это REST-сервисы, созданные с помощью Spring Boot или Spring Framework.
+Здесь мои первые проекты — это REST-сервисы, созданные с помощью Spring Boot.
 
 # Projects
 - ### [Java-filmorate](https://github.com/AveryanovaKatia/java-filmorate)  | Java + Spring Boot + SQL
