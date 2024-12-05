@@ -1,16 +1,9 @@
 ## 
 
-<div align="center">
-    <img src="https://media.giphy.com/media/iDbDicWr95THaVsuIF/giphy.gif" width="150px"/>
-</div>
-
-Меня зовут Аверьянова Катя, я не так давно встала на путь Java-разработчика, но уже кое-что умею. 
-Стремлюсь писать чистый код, компактный и понятный.
-
-Здесь мои первые проекты — это REST-сервисы, созданные с помощью Spring Boot.
+Мои проекты — это REST-сервисы, созданные с помощью Spring Boot.
 
 # Projects
-- ### [piggy-bank-of-ideas](https://github.com/AveryanovaKatia/piggy-bank-of-ideas) | Мой петпроект (в разработке локально)
+- ### [piggy-bank-of-ideas](https://github.com/AveryanovaKatia/piggy-bank-of-ideas) | Мой pet-проект (в разработке локально)
 - ### [Java-explore-with-me](https://github.com/AveryanovaKatia/java-explore-with-me)  | Java + Spring FrameWork + Hibernate + Docker + MicroServices + Postgresql
 - ### [Java-shareit](https://github.com/AveryanovaKatia/java-shareit)  | Java + Spring FrameWork + Hibernate + Docker + MicroServices + Postgresql
 - ### [Java-filmorate](https://github.com/AveryanovaKatia/java-filmorate)  | Java + Spring Boot + SQL
