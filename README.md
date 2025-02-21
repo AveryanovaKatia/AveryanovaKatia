@@ -1,12 +1,9 @@
 ## 
 
-Мои проекты — это REST-сервисы, созданные с помощью Spring Boot.
-
-# Projects
-- ### [piggy-bank-of-ideas](https://github.com/AveryanovaKatia/piggy-bank-of-ideas) | Мой pet-проект (в разработке локально)
-- ### [Java-explore-with-me](https://github.com/AveryanovaKatia/java-explore-with-me)  | Java + Spring FrameWork + Hibernate + Docker + MicroServices + Postgresql
-- ### [Java-shareit](https://github.com/AveryanovaKatia/java-shareit)  | Java + Spring FrameWork + Hibernate + Docker + MicroServices + Postgresql
-- ### [Java-filmorate](https://github.com/AveryanovaKatia/java-filmorate)  | Java + Spring Boot + SQL
+# Best Projects
+- ### [piggy-bank-of-ideas](https://github.com/AveryanovaKatia/piggy-bank-of-ideas) | Java + Spring FrameWork + Hibernate + HTML + Apache Tomcat
+- ### [piggy-bank-of-ideas](https://github.com/AveryanovaKatia/piggy-bank-of-ideas) | Java + Spring Security + Spring Boot + Hibernate + Docker + Postgresql
+- ### [Java-explore-with-me](https://github.com/AveryanovaKatia/java-explore-with-me)  | Java + Spring Boot + Hibernate + Docker + MicroServices + Postgresql
 
 <br>
 
