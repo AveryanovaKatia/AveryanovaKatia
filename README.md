@@ -1,7 +1,7 @@
 ## 
 
 # Best Projects
-- ### [piggy-bank-of-ideas](https://github.com/AveryanovaKatia/piggy-bank-of-ideas) | Java + Spring FrameWork + Hibernate + HTML + Apache Tomcat
+- ### [vision-board](https://github.com/AveryanovaKatia/vision-board) | Java + Spring FrameWork + Hibernate + HTML + Apache Tomcat
 - ### [piggy-bank-of-ideas](https://github.com/AveryanovaKatia/piggy-bank-of-ideas) | Java + Spring Security + Spring Boot + Hibernate + Docker + Postgresql
 - ### [Java-explore-with-me](https://github.com/AveryanovaKatia/java-explore-with-me)  | Java + Spring Boot + Hibernate + Docker + MicroServices + Postgresql
 
